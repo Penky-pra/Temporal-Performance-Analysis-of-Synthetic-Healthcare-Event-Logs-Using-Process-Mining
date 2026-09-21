@@ -4,7 +4,7 @@ Code and synthetic event log for evaluating whether aggregate fidelity measures 
 # Evaluating synthetic healthcare event logs
 
 Code and results for *Temporal Performance Analysis of Synthetic Healthcare Event
-Logs Using Process Mining* (Nath, Friedrich and Pelka).
+Logs Using Process Mining* .
 
 The study tests whether the aggregate fidelity measures ordinarily used to judge
 synthetic event logs support process-level analysis. Three generators — a
